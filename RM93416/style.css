@@ -1,0 +1,42 @@
+.navbar-brand{
+    font-size: 40px;
+    color: black;
+}
+
+.navbar{
+    background-color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu{
+    font-size: 45px;
+    color: black;
+}
+
+body{
+    background-color: burlywood;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+h2{
+    font-size: 30px;
+    color: darkslateblue;
+    font-weight: bold;
+}
+
+p{
+    font-size: 25px;
+    color: darkslateblue;
+    font-weight: 300;
+}
+table{
+    background-color: cornflowerblue;
+}
+thead{
+    background-color: dodgerblue;
+}
+a{
+    color: beige;
+}
